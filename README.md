@@ -14,10 +14,10 @@ Dieses Token können Sie beantragen unter [Requested & Issued Demo certificates]
 oder direkt bei [Gerd Brost](https://www.dataspaces.fraunhofer.de/de/software/identity_provider.html).
 
 Wenn Sie den [Dataspace Connector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) nutzen, können Sie Ihren Connector mit Token wie unter [Dataspace Connector-Configuration](https://international-data-spaces-association.github.io/DataspaceConnector/Deployment/Configuration)
-beschrieben konfigurieren. Nun können Sie Ihren Connector z.B. mit einem einem der Broker verbinden um eigene Resourcen zu veröffentlichen oder Resourcen von anderen Connectoren im Datenraum anfragen.
+beschrieben konfigurieren. Nun können Sie Ihren Connector z.B. mit einem der Broker verbinden um eigene Ressourcen zu veröffentlichen oder Resourcen von anderen Connectoren im Datenraum anfragen.
 
 ## Stages
-Es existieren zwei voneinander getrennte Stages oder Umgebungen des Datenraum Mobilität. Eine Testumgebung und eine Demoumgebung. Wie der Name schon sagt wird die Testumgebung zum Testen neuer Connectoren und Resourcen verwendet.
+Es existieren zwei voneinander getrennte Stages oder Umgebungen des Datenraums Mobilität. Eine Testumgebung und eine Demoumgebung. Wie der Name schon sagt, wird die Testumgebung zum Testen neuer Connectoren und Ressourcen verwendet.
 Haben Sie einen neuen Connector sollten Sie ihn zuerst in der Testumgebung testen.
 
 ### Testumgebung
