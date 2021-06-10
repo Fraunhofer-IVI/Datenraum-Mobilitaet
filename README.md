@@ -16,9 +16,6 @@ oder direkt bei [Gerd Brost](https://www.dataspaces.fraunhofer.de/de/software/id
 Wenn Sie den [Dataspace Connector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) nutzen, können Sie Ihren Connector mit Token wie unter [Dataspace Connector-Configuration](https://international-data-spaces-association.github.io/DataspaceConnector/Deployment/Configuration)
 beschrieben konfigurieren. Nun können Sie Ihren Connector z.B. mit einem einem der Broker verbinden um eigene Resourcen zu veröffentlichen oder Resourcen von anderen Connectoren im Datenraum anfragen.
 
-== Ontologie
-
-
 ## Stages
 Es existieren zwei voneinander getrennte Stages oder Umgebungen des Datenraum Mobilität. Eine Testumgebung und eine Demoumgebung. Wie der Name schon sagt wird die Testumgebung zum Testen neuer Connectoren und Resourcen verwendet.
 Haben Sie einen neuen Connector sollten Sie ihn zuerst in der Testumgebung testen.
@@ -38,4 +35,4 @@ Das User Interface des Brokers ist zu erreichen unter https://broker.mobilitydat
 Die IDS Schnittstelle zum Publizieren einer Resource ist zu erreichen unter https://ids.broker.mobilitydataspace.io/infrastructure
 
 ## Ontologie
-Der Datenraum Mobilität verwendet die [MobiDS Ontologie](../blob/main/ontology/MobiDS-Ontology.ttl)
+Der Datenraum Mobilität verwendet die [MobiDS Ontologie](../main/ontology/MobiDS-Ontology.ttl)
